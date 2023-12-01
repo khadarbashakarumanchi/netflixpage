@@ -1,0 +1,49 @@
+.bg-image {
+    background-image: url('./images/netfliximage.jpg');
+    background-size: 100% 100%; 
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+.logo {
+    color:red;
+    font-size: 100px;
+}
+.btn {
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.navbar {
+    display:flex ;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+.content {
+    text-align: center;
+    color: white;
+
+}
+.content h1 {
+    font-size: 20px;
+    margin: 10px;
+
+}
+.content p {
+    font-size: 20px;
+}
+.content input{
+    padding: 20px;
+    width: 400px;
+}
+
+.getStarted {
+    padding: 20px;
+    background-color: red;
+    color: white;
+    border: none;
+    font-size: 20px;
+
+}
